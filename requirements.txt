@@ -1,7 +1,5 @@
-streamlit
-opencv-python-headless==4.11.0.86
+streamlit==1.45.1
+opencv-python-headless==4.10.0.84
 numpy==1.26.4
-cvlib==0.2.7
-tensorflow-cpu==2.15.0
-pillow
-imutils
+pillow==10.2.0
+imutils==0.5.4
