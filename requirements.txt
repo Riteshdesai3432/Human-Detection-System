@@ -1,5 +1,4 @@
 streamlit==1.45.1
 opencv-python-headless==4.10.0.84
 numpy==1.26.4
-pillow==10.2.0
-imutils==0.5.4
+pillow==11.2.1        # ← was 10.2.0
